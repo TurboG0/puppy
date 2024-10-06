@@ -17,6 +17,6 @@ func BigBarks() string {
 }
 
 
-func Version10() string {
-	return "Hello, from v1.0.0"
+func Version11() string {
+	return "Hello, from v1.1.0"
 }
